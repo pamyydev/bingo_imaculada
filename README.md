@@ -18,7 +18,7 @@
 
 ## 🚀 Visão Geral
 
-O **Bingo Imaculada** é uma aplicação web desenvolvida com o objetivo de **transformar a experiência de bingos beneficentes e eventos paroquiais**. Foi projetado para rodar de forma fluida em **telões e dispositivos variados**, entregando uma interface moderna, intuitiva e responsiva — mesmo sob prazos extremamente curtos.
+O **Bingo Imaculada** é uma aplicação web desenvolvida com o objetivo de **transformar a experiência de bingos beneficentes e eventos paroquiais**. Foi projetado para rodar de forma fluida em **telões**, entregando uma interface moderna, intuitiva e responsiva.
 
 Este projeto é um exemplo real de como **design centrado no usuário, tecnologia atualizada e agilidade de entrega** podem caminhar juntos para resolver um problema do mundo real.
 
@@ -28,7 +28,7 @@ Este projeto é um exemplo real de como **design centrado no usuário, tecnologi
 
 - **Cliente:** Paróquia Imaculada Conceição  
 - **Objetivo:** Digitalizar o bingo beneficente, otimizar o sorteio e ampliar a experiência de quem participa presencialmente.
-- **Desafio:** Desenvolver uma aplicação funcional, visual e confiável em **tempo recorde**, respeitando as necessidades técnicas e emocionais do evento.
+- **Desafio:** Desenvolver uma aplicação funcional, visual e confiável em **tempo curto**, respeitando as necessidades técnicas e emocionais do evento.
 
 ---
 
