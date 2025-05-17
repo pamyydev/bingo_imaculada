@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/k0UNqVj.png" alt="Logo Paróquia Imaculada" width="140" style="border-radius: 16px; box-shadow: 0 2px 12px #0002;" />
+  <img src="https://imgur.com/k0UNqVj.png" alt="Logo Paróquia Imaculada" width="220" style="border-radius: 16px; box-shadow: 0 2px 12px #0002;" />
   <h1>Bingo Imaculada <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f389.png" width="36" style="vertical-align:middle;"/></h1>
   <p>
     <strong>Projeto de Bingo Online da Paróquia Imaculada Conceição</strong>
@@ -19,16 +19,16 @@
 
 ## ✨ Sobre o Projeto
 
-Sistema de bingo online desenvolvido para a <strong>Paróquia Imaculada Conceição</strong>, proporcionando uma experiência moderna, interativa e acessível para todos os participantes.
+O <strong>Bingo Imaculada</strong> é um sistema web criado especialmente para a Paróquia Imaculada Conceição, com o objetivo de modernizar e facilitar a realização de bingos beneficentes e eventos paroquiais. O sistema permite:
 
----
+- Sorteio automático e visual dos números do bingo, com destaque para o número atual.
+- Exibição de cartela grande e responsiva, ideal para telão e eventos presenciais.
+- Bloco de notas integrado para controle manual de rodada e turno.
+- Interface intuitiva, acessível e adaptada para diferentes dispositivos.
+- Personalização visual com as cores e identidade da paróquia.
+- Facilidade de reinício e controle de sorteios.
 
-## 🚀 Tecnologias Utilizadas
-
-- ⚛️ <b>React</b>
-- ⚡ <b>Vite</b>
-- 🟦 <b>TypeScript</b>
-- 🎨 <b>Tailwind CSS</b>
+O projeto foi desenvolvido com foco em acessibilidade, performance e experiência do usuário, tornando o bingo mais dinâmico, transparente e divertido para todos os participantes.
 
 ---
 
