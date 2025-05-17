@@ -27,7 +27,7 @@ const Index = () => {
   }, []);
 
   const drawNumber = () => {
-    if (selectedNumbers.length >= 75 || isDrawing) return;
+    if (selectedNumbers.length >= 76 || isDrawing) return;
     
     // Play draw sound
     const drawSound = new Audio('https://assets.mixkit.co/active_storage/sfx/2073/2073-preview.mp3');
@@ -101,9 +101,9 @@ const Index = () => {
         </div>
 
         {/* Main content area */}
-        <div className="container mx-auto max-w-7xl">
+        <div className="container mx-auto max-w-9xl">
           {/* Current number display - large and centered */}
-          <div className="flex justify-center my-8">
+          <div className="flex justify-center my-9">
             <div className={`
               w-60 h-60 md:w-80 md:h-80 rounded-full flex items-center justify-center text-8xl md:text-9xl font-bold 
               shadow-lg transition-all duration-500 transform
@@ -124,18 +124,18 @@ const Index = () => {
           </div>
 
           {/* Numbers grid */}
-          <div className="bg-white/70 backdrop-blur-md rounded-lg p-6 shadow-lg border border-paroquia-blue/20 mb-8 flex items-stretch">
+          <div className="bg-white/80 backdrop-blur-md rounded-lg p-6 shadow-lg border border-paroquia-blue/12 mb-10 flex items-stretch">
             {/* Letras BINGO na vertical */}
-            <div className="flex flex-col justify-center items-center mr-3 select-none">
+            <div className="flex flex-col justify-center items-center mr-5 select-none">
               {['B', 'I', 'N', 'G', 'O'].map((letra, idx) => (
                 <span
                   key={letra}
                   className="text-paroquia-blue font-merriweather font-bold text-2xl md:text-4xl lg:text-4xl"
                   style={{
-                    height: '58px',
+                    height: '58.5px',
                     display: 'flex',
                     alignItems: 'center',
-                    marginBottom: idx !== 4 ? '10px' : 0
+                    marginBottom: idx !== 3.6 ? '9.6px' : 0
                   }}
                 >
                   {letra}
