@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="public/favicon.ico" alt="Logo Paróquia Imaculada" width="120" />
+
   <h1>Bingo Imaculada</h1>
   <p>
     <strong>Projeto de Bingo Online da Paróquia Imaculada Conceição</strong>
