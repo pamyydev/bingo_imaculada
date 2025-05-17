@@ -1,9 +1,8 @@
+````markdown
 <div align="center">
   <img src="https://imgur.com/k0UNqVj.png" alt="Logo Paróquia Imaculada" width="220" style="border-radius: 16px; box-shadow: 0 2px 12px #0002;" />
-  <h1>Bingo Imaculada <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f389.png" width="36" style="vertical-align:middle;"/></h1>
-  <p>
-    <strong>Projeto de Bingo Online da Paróquia Imaculada Conceição</strong>
-  </p>
+  <h1>Bingo Imaculada 🎯</h1>
+  <p><strong>Uma solução moderna e escalável para eventos beneficentes</strong></p>
 </div>
 
 ---
@@ -12,64 +11,103 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ---
 
-## ✨ Sobre o Projeto
+## 🚀 Visão Geral
 
-O <strong>Bingo Imaculada</strong> é um sistema web criado especialmente para a Paróquia Imaculada Conceição, com o objetivo de modernizar e facilitar a realização de bingos beneficentes e eventos paroquiais. O sistema permite:
+O **Bingo Imaculada** é uma aplicação web desenvolvida com o objetivo de **transformar a experiência de bingos beneficentes e eventos paroquiais**. Foi projetado para rodar de forma fluida em **telões e dispositivos variados**, entregando uma interface moderna, intuitiva e responsiva — mesmo sob prazos extremamente curtos.
 
-- Sorteio automático e visual dos números do bingo, com destaque para o número atual.
-- Exibição de cartela grande e responsiva, ideal para telão e eventos presenciais.
-- Bloco de notas integrado para controle manual de rodada e turno.
-- Interface intuitiva, acessível e adaptada para diferentes dispositivos.
-- Personalização visual com as cores e identidade da paróquia.
-- Facilidade de reinício e controle de sorteios.
-
-O projeto foi desenvolvido com foco em acessibilidade, performance e experiência do usuário, tornando o bingo mais dinâmico, transparente e divertido para todos os participantes.
+Este projeto é um exemplo real de como **design centrado no usuário, tecnologia atualizada e agilidade de entrega** podem caminhar juntos para resolver um problema do mundo real.
 
 ---
 
-## 📦 Instalação
+## 💼 Contexto de Negócio
+
+- **Cliente:** Paróquia Imaculada Conceição  
+- **Objetivo:** Digitalizar o bingo beneficente, otimizar o sorteio e ampliar a experiência de quem participa presencialmente.
+- **Desafio:** Desenvolver uma aplicação funcional, visual e confiável em **tempo recorde**, respeitando as necessidades técnicas e emocionais do evento.
+
+---
+
+## 🧠 Funcionalidades
+
+- ✅ Sorteio visual e automatizado de números
+- ✅ Tela adaptada para projeções em telão (Full HD)
+- ✅ Destaque dinâmico do número atual
+- ✅ Bloco de anotações para controle manual (moderadores)
+- ✅ Layout responsivo e acessível
+- ✅ Reinício e controle total de rodadas
+- ✅ Identidade visual alinhada com a paróquia
+
+---
+
+## 🧱 Stack Tecnológica
+
+| Tecnologia    | Motivo da Escolha                                    |
+|---------------|------------------------------------------------------|
+| **React**     | Componentização rápida e escalabilidade              |
+| **TypeScript**| Robustez e legibilidade para um código limpo         |
+| **Vite**      | Build otimizado e DX aprimorada                      |
+| **TailwindCSS**| Estilização ágil e responsiva                       |
+| **Vercel**    | Deploy contínuo e acesso facilitado em qualquer tela |
+
+---
+
+## 💻 Como Executar
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/pamyydev/bingo-imaculada.git
-$ cd bingo-imaculada
+git clone https://github.com/pamyydev/bingo-imaculada.git
+cd bingo-imaculada
 
 # Instale as dependências
-$ npm install
+npm install
 # ou
-$ yarn install
+yarn install
 
 # Inicie o projeto
-$ npm run dev
+npm run dev
 # ou
-$ yarn dev
-```
+yarn dev
+````
 
-Acesse em: [Bingo Website](bingo-imaculada.vercel.app)
+> 🔗 Acesse a versão online em: [bingo-imaculada.vercel.app](https://bingo-imaculada.vercel.app)
 
 ---
 
-## 📁 Estrutura do Projeto
+## 🗂️ Estrutura
 
 ```
-public/
-  imagens/           # Logo e imagens da paróquia
-src/
-  components/        # Componentes React
-  pages/             # Páginas principais
-  lib/               # Utilitários e animações
-  index.css          # Estilos globais
-vite.config.ts       # Configuração do Vite
+📁 bingo-imaculada/
+├── public/              # Arquivos estáticos e imagens
+├── src/
+│   ├── components/      # Componentes reutilizáveis
+│   ├── pages/           # Telas principais (UI)
+│   ├── lib/             # Funções auxiliares e lógica de sorteio
+│   └── index.css        # Estilo global (Tailwind)
+├── vite.config.ts       # Configuração do Vite
 ```
+
+---
+
+## 🧩 Diferenciais Técnicos
+
+* **Componentização reutilizável:** facilita manutenção e escalabilidade.
+* **Pensado para o mundo real:** foi testado e executado em um evento presencial com alto fluxo de participantes.
+* **Entrega sob pressão:** desenvolvido em tempo reduzido, mas mantendo boas práticas de código e UX.
+
+---
+
+## 🤝 Contribuições
+
+Este projeto foi desenvolvido de forma voluntária, com foco em impacto social e comunitário. Se você deseja contribuir, adaptar para outra realidade ou expandir, fique à vontade para abrir uma issue ou PR.
 
 ---
 
 <div align="center">
-  <sub>Desenvolvido com ❤️ para a Paróquia Imaculada Conceição — 2025</sub>
+  <sub>Desenvolvido com profissionalismo, propósito e tecnologia — 2025</sub>
 </div>
-
+```
