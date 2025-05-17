@@ -90,7 +90,7 @@ const Index = () => {
         <div className="flex flex-col items-center justify-center mb-6">
           <div className="flex items-center mb-4">
             <img 
-              src="/imagens/paroquia.png" 
+              src="/paroquia.png" 
               alt="Paróquia Imaculada Conceição" 
               className="h-24 md:h-32 lg:h-36"
             />
