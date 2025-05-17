@@ -50,7 +50,7 @@ $ npm run dev
 $ yarn dev
 ```
 
-Acesse em: [http://localhost:8080](http://localhost:8080)
+Acesse em: [Bingo Website](bingo-imaculada.vercel.app)
 
 ---
 
