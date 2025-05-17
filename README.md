@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/imagens/paroquia.png" alt="Logo Paróquia Imaculada" width="140" style="border-radius: 16px; box-shadow: 0 2px 12px #0002;" />
+  <img src="https://imgur.com/k0UNqVj.png" alt="Logo Paróquia Imaculada" width="140" style="border-radius: 16px; box-shadow: 0 2px 12px #0002;" />
   <h1>Bingo Imaculada <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f389.png" width="36" style="vertical-align:middle;"/></h1>
   <p>
     <strong>Projeto de Bingo Online da Paróquia Imaculada Conceição</strong>
@@ -66,18 +66,6 @@ src/
   index.css          # Estilos globais
 vite.config.ts       # Configuração do Vite
 ```
-
----
-
-## 🖼️ Logo
-
-O logo oficial da paróquia está em `public/imagens/paroquia.png`.
-
----
-
-## 🙋‍♂️ Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 ---
 
