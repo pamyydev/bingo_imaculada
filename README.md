@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
   <img src="https://imgur.com/k0UNqVj.png" alt="Logo Paróquia Imaculada" width="220" style="border-radius: 16px; box-shadow: 0 2px 12px #0002;" />
   <h1>Bingo Imaculada 🎯</h1>
