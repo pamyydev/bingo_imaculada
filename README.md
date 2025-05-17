@@ -1,5 +1,6 @@
-
-  <h1>Bingo Imaculada</h1>
+<div align="center">
+  <img src="public/imagens/paroquia.png" alt="Logo Paróquia Imaculada" width="140" style="border-radius: 16px; box-shadow: 0 2px 12px #0002;" />
+  <h1>Bingo Imaculada <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f389.png" width="36" style="vertical-align:middle;"/></h1>
   <p>
     <strong>Projeto de Bingo Online da Paróquia Imaculada Conceição</strong>
   </p>
@@ -7,46 +8,80 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+---
+
 ## ✨ Sobre o Projeto
 
-Este é um sistema de bingo online desenvolvido para a Paróquia Imaculada Conceição. O objetivo é proporcionar uma experiência interativa, moderna e acessível para todos os participantes do bingo da paróquia.
+Sistema de bingo online desenvolvido para a <strong>Paróquia Imaculada Conceição</strong>, proporcionando uma experiência moderna, interativa e acessível para todos os participantes.
+
+---
 
 ## 🚀 Tecnologias Utilizadas
 
-- [React](https://react.dev/)
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- ⚛️ <b>React</b>
+- ⚡ <b>Vite</b>
+- 🟦 <b>TypeScript</b>
+- 🎨 <b>Tailwind CSS</b>
+
+---
 
 ## 📦 Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/pamyydev/bingo-imaculada.git
-   cd bingo-imaculada
-   ```
-2. Instale as dependências:
-   ```bash
-   npm install
-   # ou
-   yarn install
-   ```
-3. Inicie o projeto:
-   ```bash
-   npm run dev
-   # ou
-   yarn dev
-   ```
+```bash
+# Clone o repositório
+$ git clone https://github.com/pamyydev/bingo-imaculada.git
+$ cd bingo-imaculada
 
-Acesse em [http://localhost:8080](http://localhost:8080)
+# Instale as dependências
+$ npm install
+# ou
+$ yarn install
+
+# Inicie o projeto
+$ npm run dev
+# ou
+$ yarn dev
+```
+
+Acesse em: [http://localhost:8080](http://localhost:8080)
+
+---
 
 ## 📁 Estrutura do Projeto
 
-- `src/` — Código-fonte principal
-- `public/` — Arquivos estáticos e logo da paróquia
-- `vite.config.ts` — Configuração do Vite
+```
+public/
+  imagens/           # Logo e imagens da paróquia
+src/
+  components/        # Componentes React
+  pages/             # Páginas principais
+  lib/               # Utilitários e animações
+  index.css          # Estilos globais
+vite.config.ts       # Configuração do Vite
+```
+
+---
+
+## 🖼️ Logo
+
+O logo oficial da paróquia está em `public/imagens/paroquia.png`.
+
+---
+
+## 🙋‍♂️ Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+---
 
 <div align="center">
-  <sub>Desenvolvido pela Pamy com ❤️ para a Paróquia Imaculada Conceição</sub>
+  <sub>Desenvolvido com ❤️ para a Paróquia Imaculada Conceição — 2025</sub>
 </div>
 
