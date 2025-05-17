@@ -110,4 +110,3 @@ Este projeto foi desenvolvido de forma voluntária, com foco em impacto social e
 <div align="center">
   <sub>Desenvolvido com profissionalismo, propósito e tecnologia — 2025</sub>
 </div>
-```
